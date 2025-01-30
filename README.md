@@ -26,3 +26,12 @@ This project converts markdown meeting notes into a well-formatted Google Doc us
 
 4. **Run the Script**:
    - Execute the cells in the notebook to authenticate, parse the markdown content, and create the Google Doc.
+
+
+
+## How to Run in Colab
+
+1. Open the `markdown_to_google_doc.ipynb` notebook in Google Colab.
+2. Upload the `credentials.json` file when prompted.
+3. Run all cells in the notebook.
+4. The script will create a Google Doc with the formatted meeting notes and print the document URL.
