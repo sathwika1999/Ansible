@@ -1,5 +1,5 @@
 # Ansible
-Converting the markdown meeting notes in python into Google Docs.
+Converting the markdown meeting notes in Python into Google Docs.
 
 # Markdown to Google Doc Converter
 
